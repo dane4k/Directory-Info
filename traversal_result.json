@@ -1,0 +1,1938 @@
+[
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\traversal_result.json",
+        "Last modified": "02.03.24 11:16:52",
+        "Size": "84621 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv",
+        "Last modified": "02.03.24 17:49:28",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\.idea\\workspace.xml",
+        "Last modified": "02.03.24 17:50:55",
+        "Size": "3078 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\.idea\\inspectionProfiles",
+        "Last modified": "20.02.24 05:07:43",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\.idea\\inspectionProfiles\\profiles_settings.xml",
+        "Last modified": "20.02.24 05:07:43",
+        "Size": "174 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\.idea\\inspectionProfiles",
+        "Last modified": "20.02.24 05:07:43",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\Folder\\book.txt",
+        "Last modified": "29.02.24 19:21:13",
+        "Size": "11424 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\Folder\\Folder2",
+        "Last modified": "29.02.24 20:23:21",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\Folder\\Folder1\\water.txt",
+        "Last modified": "29.02.24 19:25:16",
+        "Size": "30420 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\Folder\\Folder2",
+        "Last modified": "29.02.24 20:23:21",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\Folder\\Folder2\\game.txt",
+        "Last modified": "29.02.24 19:24:57",
+        "Size": "2340 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\Folder\\Folder2\\Folder3",
+        "Last modified": "29.02.24 20:23:21",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\Folder\\Folder2\\Folder3\\Text Document.txt",
+        "Last modified": "29.02.24 19:22:12",
+        "Size": "3239023 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\Folder\\Folder2\\Folder3",
+        "Last modified": "29.02.24 20:23:21",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\pyvenv.cfg",
+        "Last modified": "20.02.24 05:07:10",
+        "Size": "410 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Scripts",
+        "Last modified": "29.02.24 20:11:21",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\pyvenv.cfg",
+        "Last modified": "20.02.24 05:07:10",
+        "Size": "410 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages",
+        "Last modified": "29.02.24 20:11:21",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\_virtualenv.py",
+        "Last modified": "20.02.24 05:06:38",
+        "Size": "5770 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\__pycache__",
+        "Last modified": "20.02.24 05:07:11",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\beautifulsoup4-4.12.3.dist-info\\WHEEL",
+        "Last modified": "29.02.24 20:11:19",
+        "Size": "87 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\beautifulsoup4-4.12.3.dist-info\\licenses",
+        "Last modified": "29.02.24 20:11:19",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\beautifulsoup4-4.12.3.dist-info\\licenses\\LICENSE",
+        "Last modified": "29.02.24 20:11:19",
+        "Size": "1441 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\beautifulsoup4-4.12.3.dist-info\\licenses",
+        "Last modified": "29.02.24 20:11:19",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\bs4\\__init__.py",
+        "Last modified": "29.02.24 20:11:19",
+        "Size": "33822 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\bs4\\__pycache__",
+        "Last modified": "29.02.24 20:11:19",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\bs4\\builder\\__init__.py",
+        "Last modified": "29.02.24 20:11:19",
+        "Size": "24566 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\bs4\\builder\\__pycache__",
+        "Last modified": "29.02.24 20:11:19",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\bs4\\builder\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:19",
+        "Size": "25090 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\bs4\\builder\\__pycache__",
+        "Last modified": "29.02.24 20:11:19",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\bs4\\tests\\__init__.py",
+        "Last modified": "29.02.24 20:11:19",
+        "Size": "48392 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\bs4\\tests\\__pycache__",
+        "Last modified": "29.02.24 20:11:19",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\bs4\\tests\\fuzz\\crash-ffbdfa8a2b26f13537b68d3794b0478a4090ee4a.testcase",
+        "Last modified": "29.02.24 20:11:19",
+        "Size": "103 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\bs4\\tests\\__pycache__",
+        "Last modified": "29.02.24 20:11:19",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\bs4\\tests\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:19",
+        "Size": "66978 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\bs4\\tests\\__pycache__",
+        "Last modified": "29.02.24 20:11:19",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\bs4\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:19",
+        "Size": "35768 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\bs4\\tests\\__pycache__",
+        "Last modified": "29.02.24 20:11:19",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\google-3.0.0.dist-info\\WHEEL",
+        "Last modified": "29.02.24 20:11:21",
+        "Size": "110 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\bs4\\tests\\__pycache__",
+        "Last modified": "29.02.24 20:11:19",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\googlesearch\\__init__.py",
+        "Last modified": "29.02.24 20:11:21",
+        "Size": "12981 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\googlesearch\\__pycache__",
+        "Last modified": "29.02.24 20:11:21",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\googlesearch\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:21",
+        "Size": "12060 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\googlesearch\\__pycache__",
+        "Last modified": "29.02.24 20:11:21",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\__pip-runner__.py",
+        "Last modified": "20.02.24 05:06:39",
+        "Size": "1444 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\__pycache__",
+        "Last modified": "29.02.24 20:10:56",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\__init__.py",
+        "Last modified": "20.02.24 05:06:39",
+        "Size": "573 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\__init__.py",
+        "Last modified": "20.02.24 05:06:40",
+        "Size": "132 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:10:56",
+        "Size": "292 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\__init__.py",
+        "Last modified": "20.02.24 05:06:42",
+        "Size": "3882 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\__pycache__",
+        "Last modified": "29.02.24 20:11:07",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:07",
+        "Size": "4460 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\__pycache__",
+        "Last modified": "29.02.24 20:11:07",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\distributions\\__init__.py",
+        "Last modified": "20.02.24 05:06:43",
+        "Size": "858 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\distributions\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\distributions\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:11",
+        "Size": "1042 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\distributions\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\index\\__init__.py",
+        "Last modified": "20.02.24 05:06:43",
+        "Size": "30 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\index\\__pycache__",
+        "Last modified": "29.02.24 20:11:09",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\index\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:07",
+        "Size": "246 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\index\\__pycache__",
+        "Last modified": "29.02.24 20:11:09",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\locations\\__init__.py",
+        "Last modified": "20.02.24 05:06:43",
+        "Size": "17552 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\locations\\__pycache__",
+        "Last modified": "29.02.24 20:11:04",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\locations\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:04",
+        "Size": "20671 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\locations\\__pycache__",
+        "Last modified": "29.02.24 20:11:04",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\__init__.py",
+        "Last modified": "20.02.24 05:06:43",
+        "Size": "4280 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\__pycache__",
+        "Last modified": "29.02.24 20:11:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib\\__init__.py",
+        "Last modified": "20.02.24 05:06:43",
+        "Size": "107 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib\\__pycache__",
+        "Last modified": "29.02.24 20:11:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:13",
+        "Size": "363 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib\\__pycache__",
+        "Last modified": "29.02.24 20:11:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:06",
+        "Size": "6417 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib\\__pycache__",
+        "Last modified": "29.02.24 20:11:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\models\\__init__.py",
+        "Last modified": "20.02.24 05:06:44",
+        "Size": "63 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\models\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\models\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:04",
+        "Size": "280 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\models\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\network\\__init__.py",
+        "Last modified": "20.02.24 05:06:45",
+        "Size": "50 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\network\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\network\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:07",
+        "Size": "268 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\network\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\__init__.py",
+        "Last modified": "20.02.24 05:06:45",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build\\__init__.py",
+        "Last modified": "20.02.24 05:06:46",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:10",
+        "Size": "212 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install\\__init__.py",
+        "Last modified": "20.02.24 05:06:46",
+        "Size": "51 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install\\__pycache__",
+        "Last modified": "29.02.24 20:11:11",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:10",
+        "Size": "280 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install\\__pycache__",
+        "Last modified": "29.02.24 20:11:11",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:10",
+        "Size": "206 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install\\__pycache__",
+        "Last modified": "29.02.24 20:11:11",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\req\\__init__.py",
+        "Last modified": "20.02.24 05:06:46",
+        "Size": "2807 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\req\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\req\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:09",
+        "Size": "4452 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\req\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\__init__.py",
+        "Last modified": "20.02.24 05:06:46",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\legacy\\__init__.py",
+        "Last modified": "20.02.24 05:06:47",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib\\__init__.py",
+        "Last modified": "20.02.24 05:06:47",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib\\__pycache__",
+        "Last modified": "29.02.24 20:11:14",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:13",
+        "Size": "217 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib\\__pycache__",
+        "Last modified": "29.02.24 20:11:14",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:12",
+        "Size": "206 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib\\__pycache__",
+        "Last modified": "29.02.24 20:11:14",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\__init__.py",
+        "Last modified": "20.02.24 05:06:49",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:10:56",
+        "Size": "201 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\__pycache__",
+        "Last modified": "29.02.24 20:11:12",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\vcs\\__init__.py",
+        "Last modified": "20.02.24 05:06:50",
+        "Size": "596 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\vcs\\__pycache__",
+        "Last modified": "29.02.24 20:11:09",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\vcs\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:08",
+        "Size": "636 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\vcs\\__pycache__",
+        "Last modified": "29.02.24 20:11:09",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:10:56",
+        "Size": "957 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_internal\\vcs\\__pycache__",
+        "Last modified": "29.02.24 20:11:09",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\__init__.py",
+        "Last modified": "20.02.24 05:06:50",
+        "Size": "4966 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\__pycache__",
+        "Last modified": "29.02.24 20:11:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\__init__.py",
+        "Last modified": "20.02.24 05:06:50",
+        "Size": "465 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\__pycache__",
+        "Last modified": "29.02.24 20:11:08",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches\\__init__.py",
+        "Last modified": "20.02.24 05:06:51",
+        "Size": "242 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches\\__pycache__",
+        "Last modified": "29.02.24 20:11:09",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:09",
+        "Size": "418 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches\\__pycache__",
+        "Last modified": "29.02.24 20:11:09",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:07",
+        "Size": "843 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches\\__pycache__",
+        "Last modified": "29.02.24 20:11:09",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\certifi\\__main__.py",
+        "Last modified": "20.02.24 05:06:51",
+        "Size": "255 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\certifi\\__pycache__",
+        "Last modified": "29.02.24 20:10:56",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\certifi\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:10:56",
+        "Size": "343 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\certifi\\__pycache__",
+        "Last modified": "29.02.24 20:10:56",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\__init__.py",
+        "Last modified": "20.02.24 05:06:55",
+        "Size": "3705 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\__pycache__",
+        "Last modified": "29.02.24 20:11:03",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\cli\\__init__.py",
+        "Last modified": "20.02.24 05:06:55",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\__pycache__",
+        "Last modified": "29.02.24 20:11:03",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\metadata\\__init__.py",
+        "Last modified": "20.02.24 05:06:55",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\__pycache__",
+        "Last modified": "29.02.24 20:11:03",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:02",
+        "Size": "3969 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\__pycache__",
+        "Last modified": "29.02.24 20:11:03",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama\\__init__.py",
+        "Last modified": "20.02.24 05:06:55",
+        "Size": "239 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\__pycache__",
+        "Last modified": "29.02.24 20:11:03",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib\\__init__.py",
+        "Last modified": "20.02.24 05:06:58",
+        "Size": "581 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib\\__pycache__",
+        "Last modified": "29.02.24 20:11:11",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:11",
+        "Size": "1446 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib\\__pycache__",
+        "Last modified": "29.02.24 20:11:11",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\distro\\__main__.py",
+        "Last modified": "20.02.24 05:06:58",
+        "Size": "64 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib\\__pycache__",
+        "Last modified": "29.02.24 20:11:11",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\idna\\__init__.py",
+        "Last modified": "20.02.24 05:06:59",
+        "Size": "849 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\idna\\__pycache__",
+        "Last modified": "29.02.24 20:11:04",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\idna\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:04",
+        "Size": "1100 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\idna\\__pycache__",
+        "Last modified": "29.02.24 20:11:04",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\msgpack\\__init__.py",
+        "Last modified": "20.02.24 05:06:59",
+        "Size": "1132 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\msgpack\\__pycache__",
+        "Last modified": "29.02.24 20:11:08",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\msgpack\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:08",
+        "Size": "2079 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\msgpack\\__pycache__",
+        "Last modified": "29.02.24 20:11:08",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\__init__.py",
+        "Last modified": "20.02.24 05:06:59",
+        "Size": "497 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\__pycache__",
+        "Last modified": "29.02.24 20:10:57",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:10:56",
+        "Size": "565 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\__pycache__",
+        "Last modified": "29.02.24 20:10:57",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517\\__init__.py",
+        "Last modified": "20.02.24 05:06:59",
+        "Size": "130 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517\\__pycache__",
+        "Last modified": "29.02.24 20:10:59",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517\\in_process\\__init__.py",
+        "Last modified": "20.02.24 05:07:00",
+        "Size": "872 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517\\in_process\\__pycache__",
+        "Last modified": "29.02.24 20:10:59",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517\\in_process\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:10:59",
+        "Size": "1791 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517\\in_process\\__pycache__",
+        "Last modified": "29.02.24 20:10:59",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:10:59",
+        "Size": "344 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517\\in_process\\__pycache__",
+        "Last modified": "29.02.24 20:10:59",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pkg_resources\\__init__.py",
+        "Last modified": "20.02.24 05:07:00",
+        "Size": "108287 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pkg_resources\\__pycache__",
+        "Last modified": "29.02.24 20:11:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pkg_resources\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:13",
+        "Size": "158233 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pkg_resources\\__pycache__",
+        "Last modified": "29.02.24 20:11:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs\\__main__.py",
+        "Last modified": "20.02.24 05:07:00",
+        "Size": "1176 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs\\__pycache__",
+        "Last modified": "29.02.24 20:11:06",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:05",
+        "Size": "12791 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs\\__pycache__",
+        "Last modified": "29.02.24 20:11:06",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\__main__.py",
+        "Last modified": "20.02.24 05:07:01",
+        "Size": "353 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\__pycache__",
+        "Last modified": "29.02.24 20:10:59",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\filters\\__init__.py",
+        "Last modified": "20.02.24 05:07:01",
+        "Size": "40386 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\filters\\__pycache__",
+        "Last modified": "29.02.24 20:10:59",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\filters\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:10:59",
+        "Size": "40107 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\filters\\__pycache__",
+        "Last modified": "29.02.24 20:10:59",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters\\__init__.py",
+        "Last modified": "20.02.24 05:07:02",
+        "Size": "4810 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\filters\\__pycache__",
+        "Last modified": "29.02.24 20:10:59",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers\\__init__.py",
+        "Last modified": "20.02.24 05:07:03",
+        "Size": "11174 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers\\__pycache__",
+        "Last modified": "29.02.24 20:10:58",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:10:58",
+        "Size": "15150 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers\\__pycache__",
+        "Last modified": "29.02.24 20:10:58",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\styles\\__init__.py",
+        "Last modified": "20.02.24 05:07:03",
+        "Size": "3419 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\styles\\__pycache__",
+        "Last modified": "29.02.24 20:10:59",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\styles\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:10:59",
+        "Size": "4460 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\styles\\__pycache__",
+        "Last modified": "29.02.24 20:10:59",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:10:58",
+        "Size": "3847 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\styles\\__pycache__",
+        "Last modified": "29.02.24 20:10:59",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\__init__.py",
+        "Last modified": "20.02.24 05:07:03",
+        "Size": "9171 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\__pycache__",
+        "Last modified": "29.02.24 20:10:57",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\diagram\\__init__.py",
+        "Last modified": "20.02.24 05:07:03",
+        "Size": "23685 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\__pycache__",
+        "Last modified": "29.02.24 20:10:57",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:10:56",
+        "Size": "8350 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\__pycache__",
+        "Last modified": "29.02.24 20:10:57",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\__version__.py",
+        "Last modified": "20.02.24 05:07:04",
+        "Size": "440 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\__pycache__",
+        "Last modified": "29.02.24 20:11:04",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\__pycache__\\__version__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:04",
+        "Size": "594 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\__pycache__",
+        "Last modified": "29.02.24 20:11:04",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\__init__.py",
+        "Last modified": "20.02.24 05:07:04",
+        "Size": "537 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\__pycache__",
+        "Last modified": "29.02.24 20:11:14",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat\\__init__.py",
+        "Last modified": "20.02.24 05:07:04",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat\\__pycache__",
+        "Last modified": "29.02.24 20:11:14",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:14",
+        "Size": "211 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat\\__pycache__",
+        "Last modified": "29.02.24 20:11:14",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:13",
+        "Size": "756 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat\\__pycache__",
+        "Last modified": "29.02.24 20:11:14",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\__main__.py",
+        "Last modified": "20.02.24 05:07:08",
+        "Size": "8808 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\__pycache__",
+        "Last modified": "29.02.24 20:11:16",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:10:57",
+        "Size": "7360 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\__pycache__",
+        "Last modified": "29.02.24 20:11:16",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\__init__.py",
+        "Last modified": "20.02.24 05:07:08",
+        "Size": "18364 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\__pycache__",
+        "Last modified": "29.02.24 20:10:59",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:10:59",
+        "Size": "27798 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\__pycache__",
+        "Last modified": "29.02.24 20:10:59",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\tomli\\__init__.py",
+        "Last modified": "20.02.24 05:07:08",
+        "Size": "396 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\tomli\\__pycache__",
+        "Last modified": "29.02.24 20:11:11",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\tomli\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:11",
+        "Size": "415 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\tomli\\__pycache__",
+        "Last modified": "29.02.24 20:11:11",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\__init__.py",
+        "Last modified": "20.02.24 05:07:09",
+        "Size": "3333 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\__pycache__",
+        "Last modified": "29.02.24 20:11:01",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\__init__.py",
+        "Last modified": "20.02.24 05:07:09",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\__pycache__",
+        "Last modified": "29.02.24 20:11:04",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_securetransport\\__init__.py",
+        "Last modified": "20.02.24 05:07:09",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\__pycache__",
+        "Last modified": "29.02.24 20:11:04",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:00",
+        "Size": "209 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\__pycache__",
+        "Last modified": "29.02.24 20:11:04",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\__init__.py",
+        "Last modified": "20.02.24 05:07:09",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\__pycache__",
+        "Last modified": "29.02.24 20:11:00",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports\\__init__.py",
+        "Last modified": "20.02.24 05:07:09",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\__pycache__",
+        "Last modified": "29.02.24 20:11:00",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:00",
+        "Size": "210 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\__pycache__",
+        "Last modified": "29.02.24 20:11:00",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\__init__.py",
+        "Last modified": "20.02.24 05:07:10",
+        "Size": "1155 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\__pycache__",
+        "Last modified": "29.02.24 20:11:01",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:00",
+        "Size": "1412 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\__pycache__",
+        "Last modified": "29.02.24 20:11:01",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:00",
+        "Size": "3713 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\__pycache__",
+        "Last modified": "29.02.24 20:11:01",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings\\__init__.py",
+        "Last modified": "20.02.24 05:07:10",
+        "Size": "10579 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\__pycache__",
+        "Last modified": "29.02.24 20:11:01",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:10:56",
+        "Size": "5614 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\__pycache__",
+        "Last modified": "29.02.24 20:11:01",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\__pycache__\\__main__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:10:56",
+        "Size": "1083 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\__pycache__",
+        "Last modified": "29.02.24 20:11:01",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip-22.3.1.dist-info\\WHEEL",
+        "Last modified": "20.02.24 05:07:10",
+        "Size": "92 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\__pycache__",
+        "Last modified": "29.02.24 20:11:01",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\__init__.py",
+        "Last modified": "20.02.24 05:06:38",
+        "Size": "108568 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\__pycache__",
+        "Last modified": "20.02.24 05:07:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\extern\\__init__.py",
+        "Last modified": "20.02.24 05:06:39",
+        "Size": "2426 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\extern\\__pycache__",
+        "Last modified": "20.02.24 05:07:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\extern\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "20.02.24 05:07:13",
+        "Size": "4322 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\extern\\__pycache__",
+        "Last modified": "20.02.24 05:07:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\__init__.py",
+        "Last modified": "20.02.24 05:06:39",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\__pycache__",
+        "Last modified": "20.02.24 05:07:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py",
+        "Last modified": "20.02.24 05:06:39",
+        "Size": "506 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\__pycache__",
+        "Last modified": "20.02.24 05:07:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py",
+        "Last modified": "20.02.24 05:06:40",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__pycache__",
+        "Last modified": "20.02.24 05:07:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py",
+        "Last modified": "20.02.24 05:06:40",
+        "Size": "15526 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__pycache__",
+        "Last modified": "20.02.24 05:07:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "20.02.24 05:07:13",
+        "Size": "26613 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__pycache__",
+        "Last modified": "20.02.24 05:07:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "20.02.24 05:07:13",
+        "Size": "210 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__pycache__",
+        "Last modified": "20.02.24 05:07:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py",
+        "Last modified": "20.02.24 05:06:40",
+        "Size": "83 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__pycache__",
+        "Last modified": "20.02.24 05:07:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "20.02.24 05:07:13",
+        "Size": "304 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__pycache__",
+        "Last modified": "20.02.24 05:07:13",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py",
+        "Last modified": "20.02.24 05:06:42",
+        "Size": "497 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+        "Last modified": "20.02.24 05:07:14",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "20.02.24 05:07:13",
+        "Size": "575 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+        "Last modified": "20.02.24 05:07:14",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__init__.py",
+        "Last modified": "20.02.24 05:06:43",
+        "Size": "9159 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+        "Last modified": "20.02.24 05:07:14",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\diagram\\__init__.py",
+        "Last modified": "20.02.24 05:06:43",
+        "Size": "23668 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+        "Last modified": "20.02.24 05:07:14",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "20.02.24 05:07:13",
+        "Size": "8348 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+        "Last modified": "20.02.24 05:07:14",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "20.02.24 05:07:13",
+        "Size": "203 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+        "Last modified": "20.02.24 05:07:14",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "20.02.24 05:07:13",
+        "Size": "159575 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+        "Last modified": "20.02.24 05:07:14",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\__init__.py",
+        "Last modified": "20.02.24 05:06:47",
+        "Size": "8429 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor",
+        "Last modified": "20.02.24 05:06:56",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\command\\__init__.py",
+        "Last modified": "20.02.24 05:06:48",
+        "Size": "396 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor",
+        "Last modified": "20.02.24 05:06:56",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\config\\__init__.py",
+        "Last modified": "20.02.24 05:06:49",
+        "Size": "1121 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject",
+        "Last modified": "20.02.24 05:06:50",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py",
+        "Last modified": "20.02.24 05:06:50",
+        "Size": "1038 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject",
+        "Last modified": "20.02.24 05:06:50",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\extern\\__init__.py",
+        "Last modified": "20.02.24 05:06:50",
+        "Size": "2512 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject",
+        "Last modified": "20.02.24 05:06:50",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py",
+        "Last modified": "20.02.24 05:06:51",
+        "Size": "537 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+        "Last modified": "20.02.24 05:06:54",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py",
+        "Last modified": "20.02.24 05:06:54",
+        "Size": "430 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+        "Last modified": "20.02.24 05:06:54",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\__init__.py",
+        "Last modified": "20.02.24 05:06:54",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli",
+        "Last modified": "20.02.24 05:06:56",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py",
+        "Last modified": "20.02.24 05:06:55",
+        "Size": "30130 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli",
+        "Last modified": "20.02.24 05:06:56",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\__init__.py",
+        "Last modified": "20.02.24 05:06:55",
+        "Size": "506 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli",
+        "Last modified": "20.02.24 05:06:56",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\__init__.py",
+        "Last modified": "20.02.24 05:06:55",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text",
+        "Last modified": "20.02.24 05:06:55",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py",
+        "Last modified": "20.02.24 05:06:55",
+        "Size": "15517 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text",
+        "Last modified": "20.02.24 05:06:55",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py",
+        "Last modified": "20.02.24 05:06:55",
+        "Size": "82 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text",
+        "Last modified": "20.02.24 05:06:55",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py",
+        "Last modified": "20.02.24 05:06:56",
+        "Size": "497 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text",
+        "Last modified": "20.02.24 05:06:55",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\__init__.py",
+        "Last modified": "20.02.24 05:06:56",
+        "Size": "9159 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\diagram",
+        "Last modified": "20.02.24 05:06:56",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\diagram\\__init__.py",
+        "Last modified": "20.02.24 05:06:56",
+        "Size": "23668 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\diagram",
+        "Last modified": "20.02.24 05:06:56",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py",
+        "Last modified": "20.02.24 05:06:56",
+        "Size": "396 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\diagram",
+        "Last modified": "20.02.24 05:06:56",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info\\WHEEL",
+        "Last modified": "20.02.24 05:06:57",
+        "Size": "92 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\diagram",
+        "Last modified": "20.02.24 05:06:56",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\soupsieve\\__meta__.py",
+        "Last modified": "29.02.24 20:11:18",
+        "Size": "6766 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\soupsieve\\__pycache__",
+        "Last modified": "29.02.24 20:11:18",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\soupsieve\\__pycache__\\__meta__.cpython-311.pyc",
+        "Last modified": "29.02.24 20:11:18",
+        "Size": "8889 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\soupsieve\\__pycache__",
+        "Last modified": "29.02.24 20:11:18",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\soupsieve-2.5.dist-info\\WHEEL",
+        "Last modified": "29.02.24 20:11:18",
+        "Size": "87 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\soupsieve-2.5.dist-info\\licenses",
+        "Last modified": "29.02.24 20:11:18",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\soupsieve-2.5.dist-info\\licenses\\LICENSE.md",
+        "Last modified": "29.02.24 20:11:18",
+        "Size": "1096 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\soupsieve-2.5.dist-info\\licenses",
+        "Last modified": "29.02.24 20:11:18",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\wheel\\__main__.py",
+        "Last modified": "20.02.24 05:06:39",
+        "Size": "455 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\wheel\\vendored",
+        "Last modified": "20.02.24 05:06:39",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\wheel\\cli\\__init__.py",
+        "Last modified": "20.02.24 05:06:39",
+        "Size": "2384 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\wheel\\vendored",
+        "Last modified": "20.02.24 05:06:39",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\wheel\\vendored\\__init__.py",
+        "Last modified": "20.02.24 05:06:39",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\wheel\\vendored\\packaging",
+        "Last modified": "20.02.24 05:06:40",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\wheel\\vendored\\packaging\\__init__.py",
+        "Last modified": "20.02.24 05:06:40",
+        "Size": "0 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\wheel\\vendored\\packaging",
+        "Last modified": "20.02.24 05:06:40",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info\\WHEEL",
+        "Last modified": "20.02.24 05:06:40",
+        "Size": "92 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\wheel\\vendored\\packaging",
+        "Last modified": "20.02.24 05:06:40",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\_distutils_hack\\__init__.py",
+        "Last modified": "20.02.24 05:06:57",
+        "Size": "6128 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\_distutils_hack\\__pycache__",
+        "Last modified": "20.02.24 05:07:11",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\_distutils_hack\\__pycache__\\__init__.cpython-311.pyc",
+        "Last modified": "20.02.24 05:07:11",
+        "Size": "11162 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\_distutils_hack\\__pycache__",
+        "Last modified": "20.02.24 05:07:11",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\__pycache__\\_virtualenv.cpython-311.pyc",
+        "Last modified": "20.02.24 05:07:11",
+        "Size": "6919 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\_distutils_hack\\__pycache__",
+        "Last modified": "20.02.24 05:07:11",
+        "Object type": "Directory"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Scripts\\wheel3.exe",
+        "Last modified": "20.02.24 05:06:40",
+        "Size": "108407 bytes",
+        "Object type": " File"
+    },
+    {
+        "Path": "C:\\Users\\danya\\PycharmProjects\\tetete\\venv\\Lib\\site-packages\\_distutils_hack\\__pycache__",
+        "Last modified": "20.02.24 05:07:11",
+        "Object type": "Directory"
+    }
+]
